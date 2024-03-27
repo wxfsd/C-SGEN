@@ -19,10 +19,5 @@ If need cooperation, please contact:
 xiaofeng@mindrank.ai
 
 
-# Citation
-Please cite our paper if you use this code in your own work:
-```
-Wang X, Li Z, Jiang M, Wang S, Zhang S, Wei Z. Molecule property prediction based on spatial graph embedding. Journal of chemical information and modeling. 2019 Aug 22;59(9):3817-28.
-```
 
 
