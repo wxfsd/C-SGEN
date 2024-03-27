@@ -16,7 +16,7 @@ Accurate prediction of molecular properties is important for new compound design
 # User Notification
 The model is used in the company's [Protac database project](https://molblock.cn/index.html#/target) and is currently being integrated into the company's internal software. 
 If need cooperation, please contact:
-xiaofeng@mr.ai
+xiaofeng@mindrank.ai
 
 
 # Citation
